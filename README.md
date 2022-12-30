@@ -3,11 +3,11 @@
 - Creating useful tools with simple, safe interfaces.
 
 
-##### Common Languages
+#### Common Languages
 - Lua
 - Python
 
-##### Learning Languages
+#### Learning Languages
 - Rust
 
 <!---
