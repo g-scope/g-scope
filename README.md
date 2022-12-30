@@ -1,14 +1,14 @@
 ### Welcome to my Github!
-- I like to make projects and open-source them.
-- Creating useful tools with simple, safe interfaces.
+- 🚪 I like to make projects and open-source them.
+- ⌨️ Creating useful tools with simple, safe interfaces.
 
 
 #### Common Languages
-- Lua
-- Python
+- 🌑 Lua
+- 🐍 Python
 
 #### Learning Languages
-- Rust
+- 🦾 Rust
 
 <!---
 g-scope/g-scope is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
