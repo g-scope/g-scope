@@ -1,6 +1,7 @@
 ### Welcome to my Github!
 - 🚪 I like to make projects and open-source them.
 - ⌨️ Creating useful tools with simple, safe interfaces.
+- 📌 I'll also be releasing small projects containing examples of structures/methods.
 
 
 #### Common Languages
