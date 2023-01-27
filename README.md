@@ -4,12 +4,11 @@
 - 📌 I'll also be releasing small projects containing examples of structures/methods.
 
 
-#### Common Languages
+#### Practiced Languages
 - 🌑 Lua
+- 🔧 Rust
 - 🐍 Python
-
-#### Learning Languages
-- 🦾 Rust
+- 🗞️ JavaScript
 
 <!---
 g-scope/g-scope is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
