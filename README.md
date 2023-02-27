@@ -1,11 +1,8 @@
-# Hi! I'm g-scope!
-I'm a developer that plans to make open-source contributions in the future!
-
 My goal is to polish my skillset and create production ready code at will.
 Feel free to readover my projects and offer advice!
 
 ---
-### Languages I'm familiar with (most - least):
+#### Languages I'm familiar with (most - least):
 * Lua(U)
 * Python
 * CSharp
@@ -13,7 +10,7 @@ Feel free to readover my projects and offer advice!
 
 ---
 
-### Engines and frameworks I'm familiar with (most - least):
+#### Engines and frameworks I'm familiar with (most - least):
 * ROBLOX
 * .NET
 ---
