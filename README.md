@@ -5,13 +5,15 @@ My goal is to polish my skillset and create production ready code at will.
 Feel free to readover my projects and offer advice!
 
 ---
-The languages I'm familiar with (most - least):
+### Languages I'm familiar with (most - least):
 * Lua(U)
 * Python
 * CSharp
 * Rust
 
-The engines and frameworks I'm familiar with (most - least):
+---
+
+### Engines and frameworks I'm familiar with (most - least):
 * ROBLOX
 * .NET
 ---
