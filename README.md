@@ -16,7 +16,7 @@ The engines and frameworks I'm familiar with (most - least):
 * .NET
 ---
 
-My goal is to become proficient with CSharp & .NET and make open-source libraries, frameworks, and services.
+I would like to become proficient with CSharp & .NET and make open-source libraries, frameworks, and services.
 I hope I can make something cool!
 
 ---
